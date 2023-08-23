@@ -1,0 +1,207 @@
+LIBRARY BOOKS
+
+                            MATHEMATICS AND CALCULUS
+
+1)Advanced Engineering MAthematics - Erwin Kreyszig (tenth edition)
+ URL-https://drive.google.com/file/d/1WrAUiaxLAb4WPjSu2tDCMoGnciNa_ea_/view?usp=sharing                                 
+
+2)empty
+
+3)Introduction to Real Analysis - William F. Trench 
+ URL-https://drive.google.com/file/d/1wM2R0zLOJ70KTFrIwSdJNo5e_05lj7v6/view?usp=sharing                                 
+
+4)Linear Algebra - Kenneth Hoffman (second edition)
+URL-https://drive.google.com/file/d/1CFc5Dsogvb5IPDJLPPzK84S1x-tV8gJ4/view?usp=sharing                                  
+
+5)THOMAS' Calculus - George B. Thomas JR. (fourteenth edition)
+ URL-https://drive.google.com/file/d/1XJX-uCGeW1iHZKsUEXS7l7CsnAIYRSCV/view?usp=sharing                                 
+
+6)Introduction to Real Analysis - Sadhan Kumar Mapa (fifth corrected edition)
+ URL-https://drive.google.com/file/d/1Hy8ZeZ7KmDLOjK1D0Fhk2x9mfEm8YzlR/view?usp=sharing                                 
+
+7)Multi Variable Calculus and Linear Algebra, with Applications to Differential Equations and Probability (second edition)
+ URL-https://drive.google.com/file/d/1_27TyQN3Uz_g4t3HMTeN0FNxuRCfetew/view?usp=sharing                                        
+
+8)A Basic Course in Real Analysis - Ajit Kumar, S. Kumarsan 
+ URL-https://drive.google.com/file/d/1MgTJ-5nPbvJwzFZTgq0-7wvBwBnwrh55/view?usp=sharing                                    
+
+9)Higher Algebra - H. S. Hall, S. R. Knight 
+ URL-https://drive.google.com/file/d/14xaDiiI7DXJBT8BiTDswBl3d345r1IXP/view?usp=sharing                          
+
+10)Calculus and Analytic Geometry - George B. Thomas Jr., Ross Finney (ninth edition)
+ URL-https://drive.google.com/file/d/1YkMDCha9jlYmc7lFHJzjIHxMSUbY50pj/view?usp=sharing                        
+
+
+                                                DISCRETE STRUCTURES 
+11) DISCRETE AND COMBINATORIAL MATHEMATICS - KENNETH H. ROMEN 
+URL-https://drive.google.com/file/d/1ZrJGg3bIjghDlfFkkEfR7b5gxVQCch5Y/view?usp=sharing
+
+
+                               DATA STRUCTURES 
+
+12)Data Structures with C - Seymour Lipschutz
+ URL-https://drive.google.com/file/d/1XNNe2O5xUxgH_u_J4wCTyFVhKPQ0XCi8/view?usp=sharing                            
+
+13)Introduction to Algorithms - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford stein (third edition)
+ URL-https://drive.google.com/file/d/18IvCFJ_96C6aasQnV4mOYpfPhxh_juO7/view?usp=sharing                              
+
+14)Introduction to Algorithms - Thomas H. Cormen (second edition)
+ URL-https://drive.google.com/file/d/1HSpGsCiqiJ_U3TPuCAg8Xc5SIhttyDjl/view?usp=sharing                            
+
+
+                               DIGITAL DESIGN AND LOGIC
+
+15)Digital Design - M. Morris Mano, Michael D. Ciletti (fifth edition)
+ URL-https://drive.google.com/file/d/1WkKMbqXynwPqExTC3EJCZoFSvOJcYjku/view?usp=sharing                                         
+
+
+                              ARTIFICIAL INTELLIGENCE
+
+16)Artificial Intelligence A modern Approach - Stuart Russell, Peter Norvig (fourth edition)
+ URL-https://drive.google.com/file/d/1XK8nsFmUcS2QnBgEqpvOhjQwxXp1J3WF/view?usp=sharing                      
+
+17)Introduction to the Theory of Computation - Michael Sipser (third edition)
+ URL-https://drive.google.com/file/d/1WjBSJKytPQtGh24c91QqZD8HzcZwUGPy/view?usp=sharing                      
+
+
+                                ENGINEERING DRAWINGS
+
+18)Engineering Drawing - N. D. Bhatt (fiftieth revision and enlarged edition)
+ URL-https://drive.google.com/file/d/1XDdENlwCSnQA5l-uNyIoAHyAJSVlF0m8/view?usp=sharing                        
+
+                              
+                                MEDICAL HUMANITIES
+
+19)The History of Medicine-A very short introduction - William Bynum 
+ URL-https://drive.google.com/file/d/1txcGtZp56crjY1ZMcjGRmtpQFneIUB5U/view?usp=sharing                      
+
+20)LISSA A story about Medical Promise, Friendship, and Revolution 
+ URL-https://drive.google.com/file/d/1aiXpBaRIGATcc9T63lJjn42gJpvHV0C7/view?usp=sharing                       
+
+21)Strange Harvest: organ transplants,denatured Bodies and Transformed self - Lesley A. Sharp
+ URL-https://drive.google.com/file/d/1XsmOKlolfMpPso485J4BfewkOrewasu-/view?usp=sharing                  
+
+22)Valuing Deaf Worlds in Urban India - Michele Friedner 
+ URL-https://drive.google.com/file/d/1XpczWUO4VLH0kxe7Fa_gvnhtJCmXY_y0/view?usp=sharing               
+
+23)The Key concept : The Body - Lisa Blackman 
+ URL-https://drive.google.com/file/d/1-IDeSVIXawsQLAQL3PPPOVqPVaqssPoD/view?usp=sharing                        
+
+
+                                FINANCIAL MARKETS
+
+24)Financial Markets and Institution - Frederic S. Mishkin, Stanley G. Eakins (ninth edition)
+ URL-https://drive.google.com/file/d/1i2hv4nHWHdjDQpNQ3LMVUQYFA2lmUnwM/view?usp=sharing                         
+
+
+                                 PROGRAMMING
+
+(a) C++ LANGUAGE 
+
+25)The C++ Programming Language - Bjarne Stroustrup (fourth edition)
+ URL-https://drive.google.com/file/d/1WlMS3OvypuhriHpCQq4dVZjAQklJn0D2/view?usp=sharing                           
+
+26) An Introduction to Programming through C++ - Abhiram Ranade 
+ URL-https://drive.google.com/file/d/10Ot1XVXPxR5B_AcnmSHPnyvKkMpvTELM/view?usp=sharing                             
+
+(b) C LANGUAGE 
+
+27)C Programming Language - Brian W. Kernighan, Dennis M. Ritchie(second edition)
+ URL-https://drive.google.com/file/d/1F5EKhxwYs04V2QbXItTvRrGoa8b_AiN3/view?usp=sharing                            
+
+28)Let Us C - Yashvant P. Kanetkar (fifth edition)
+ URL-https://drive.google.com/file/d/1mqlzM5LUshnjbdxHjL_9cgvBxmrUMJ1M/view?usp=sharing                 
+
+(c) PYTHON LANGUAGE 
+
+29)Learn PYTHON 3 the hard way - Zed A. Shaw 
+ URL-https://drive.google.com/file/d/1hEJayszoDo6pKfVZu7lV4mdIEjcw8PVF/view?usp=sharing                        
+
+30)Python Essential Reference - David M. Beazley (fourth edition)
+ URL-https://drive.google.com/file/d/1rTV5OnAJrpiLo6M0IkGjsvMj5fQk1AKi/view?usp=sharing                         
+
+31)Introduction to Machine Learning with Python - Andreas C. Muller & Sarah Guido 
+ URL-https://drive.google.com/file/d/1RlZrMovuC6VDCNVj5AsHV5v6rTE0jitt/view?usp=sharing                           
+
+32)Natural Language Processing with Python - Steven Bird, Ewan Klein & Edward Loper
+ URL-https://drive.google.com/file/d/1pokI9CBiM_1hUwNfs6qft-ju0DXwSw4L/view?usp=sharing                   
+
+(d) SQL LANGUAGE
+
+33)PostgreSQL Up and Running - Regina Obe, Leo Hsu (third edition)
+ URL-https://drive.google.com/file/d/1tYKv_77ZvII0h1jIBUj9F-csG1kgoyBV/view?usp=sharing                          
+
+(e)JAVASCRIPT LANGUAGE
+
+34)Learning Javascript - Ethan Brown (third edition)
+ URL-https://drive.google.com/file/d/15DEjy4_WV_SKY1eO3vqgdWjCy4k-Fcb-/view?usp=sharing               
+
+35)Javascript: The Good Parts - Douglas Crockford 
+ URL-https://drive.google.com/file/d/1VLdo8_T6EJR7zJ1XMZGDJJlHx5d1wEjD/view?usp=sharing                 
+
+36)empty
+
+(g) LINUX 
+
+37)Beginning LINUX Programming - Neil Matthew, Richard Stones (fourth edition)
+ URL-https://drive.google.com/file/d/1Wlja-f2oHQC6RcASql3r-PQSralmAPDn/view?usp=sharing                           
+
+38)Understanding LINUX Kernel - Daniel P. Bovet and Marco Cesati (third edition)
+ URL-https://drive.google.com/file/d/1n8zuxnxehskfLtkOzZz8bl0V7M7XGrh4/view?usp=sharing                   
+
+39)The UNIX Programming Environment - Brian W. Kernighan, Rob Pike 
+ URL-https://drive.google.com/file/d/1b6IPdO86SWc_wJnzL-Fvjb_DxO-yqp1R/view?usp=sharing              
+
+(h) AGILE 
+
+40)Agile For Everybody: Creating Fast, Flexible And Customer-First Organizations - Matt Lemay
+ URL-https://drive.google.com/file/d/1p-BEh5g8SN0lHq2Cof4U2xTQQ10J4FL7/view?usp=sharing                       
+
+41)Learning Agile: Understanding Scrum, XP, Lean, and Kanban 
+ URL-https://drive.google.com/file/d/1T3Ef8aqvdfqOFZ8SNBUqGDZpw3SRiWBn/view?usp=sharing                      
+
+(i) other programming language
+
+42)Programming Language Pragmatics - Michael L.Scott (third edition)
+ URL-https://drive.google.com/file/d/1LkgaRr7XgLRHuDz0Kdl0jh4w12mkaro5/view?usp=sharing                 
+
+43)Effective DevOps - Jennifer Davis & Ryn Daniels 
+ URL-https://drive.google.com/file/d/1RtxSzWekpPiwDoTtqf9uMOeYIX1GM5cA/view?usp=sharing             
+
+44)Hands-on GUI Programming on C++ and Qt5 - Lee Zhi Eng 
+ URL-https://drive.google.com/file/d/1od1FF3lV4O-EbrXFxnMW-6kNCyD66nue/view?usp=sharing                         
+
+45)Learning TensorFlow: A Guide to Building Deep Learning Systems - Tom Hope, Yehezkel S. Resheff & Itay Lieder
+ URL-https://drive.google.com/file/d/1b55z_8Zxp3dzjQNXBCljyA89IPimCU6O/view?usp=sharing                              
+
+46)Network Warrior - Gary A. Donabue (second edition)
+ URL-https://drive.google.com/file/d/1F0WETRAvgC26GhFm2Zdq7bXvPz-fcoyt/view?usp=sharing                         
+
+47)Hands- On Programming with R - Garrett Grolemund 
+ URL-https://drive.google.com/file/d/127WrqNCCk7k9lhNnzuv05fRud7cyx_R8/view?usp=sharing                         
+
+48)Cloud Native DevOps with Kubernetes - John Arundal & Justin Domingus
+ URL-https://drive.google.com/file/d/1Dt5yWzO_cVIS9eyhKcGGkXyO2_1Vmx0i/view?usp=sharing                  
+
+49)Assembly Language and Programming - Peter Abel (fourth edition)
+ URL-https://drive.google.com/file/d/1wvGkL0IMe516rMdzAL8QVY59i3fy-r-I/view?usp=sharing                     
+
+
+                        HARDWARE DESCRIPTIVE LANGUAGE
+
+50)Verilog HDL: A Guide to Digital Design and Synthesis (second edition)
+ URL-https://drive.google.com/file/d/1wVwEbWolmGmJnrmBzFbuvR5W56WZNclc/view?usp=sharing                
+
+
+                       PRINCIPLE OF MACROECONOMICS
+
+51)Principle of Macroeconomics - N. Gregory Mankiw (Eighth edition)
+ URL-https://drive.google.com/file/d/1eJe0Aud86DHhNtLLj-A_8WdWlG8Rkj3v/view?usp=sharing                   
+
+
+                 PRACTICAL STATISTICS FOR DATA SCIENTISTS
+
+52)Practical Statistics for Data Scientists - Peter Bruce and Andrew Bruce 
+ URL-https://drive.google.com/file/d/1MmAaCuNVk6mzdD5Oz9h4VAqLv2cxICyl/view?usp=sharing                   
+
+  
